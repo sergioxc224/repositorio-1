@@ -1,12 +1,12 @@
 :root {
-  --cor-de-fundo: #ebecee;
-  --branco: #ffffff;
-  --laranja: #eb9b00;
+  --cor-de-fundo: #483D8B;
+  --branco: #FFFFFF;
+  --azul: #0000FF;
   --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
   --fonte-principal: "Poppins";
 }
 :root {
-    --cor-de-fundo: #EBECEE;
+    --cor-de-fundo: #483D8B;
 }
 body {
     background-color: var(--cor-de-fundo);
@@ -24,16 +24,16 @@ h1 {
 }
 @import url("styles/header.css");
 :root {
-    --cor-de-fundo: #EBECEE;
+    --cor-de-fundo: #00BFFF;
     --branco: #FFFFFF;
 }
 .cabeçalho {
     background-color: var(--branco);
 }
 :root {
-  --cor-de-fundo: #ebecee;
+  --cor-de-fundo: ##2F4F4;
   --branco: #ffffff;
-  --laranja: #eb9b00;
+  --laranja: #FF8C00;
   --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
 }
 body {
@@ -54,7 +54,7 @@ body {
 @import url("styles/carrossel.css");
 
 :root {
-  --cor-de-fundo: #ebecee;
+  --cor-de-fundo: #;
   --branco: #ffffff;
   --laranja: #eb9b00;
   --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
